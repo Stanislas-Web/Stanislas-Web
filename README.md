@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Stanislas Makengo</h1>
+<h1 align="center">Salut 👋, Je suis Stanislas Makengo</h1>
 <h3 align="center">Un développeur fullstack passionné de la République démocratique du Congo</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stanislas-web&label=Profile%20views&color=0e75b6&style=flat" alt="stanislas-web" /> </p>
