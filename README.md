@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, Je suis Stanislas Makengo</h1>
-<h3 align="center">Un développeur web et mobile passionnée par le frontend 👩‍💻</h3>
+<h3 align="center">Un développeur web et mobile passionné par le frontend 👩‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stanislas-web&label=Profile%20views&color=0e75b6&style=flat" alt="stanislas-web" /> </p>
 
