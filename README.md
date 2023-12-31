@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Je travaille actuellement sur [Wiikko](https://wiikko.com)
+- 🔭 Je travaille actuellement sur [Trans academia](https://trans-academia.cd/telecharger.html)
 
 - 🌱 Je suis actuellement en train d'apprendre **Threejs, Unreal Engine, unity**
 
